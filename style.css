@@ -1,0 +1,179 @@
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+  }
+body{
+
+  min-height: 100vh;
+  background-color: #f0f0f0;
+  min-height: 100vh;
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 400;
+  background-image: url("/arts/vtuber/startingsoon.png"); 
+  background-size: cover;
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
+  backdrop-filter: blur(5px)
+}
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p {
+  font-size: 15px;
+  margin-top: 40px;
+  line-height: 1.8;
+}
+.card {
+  flex: 1;
+  max-width: 400px; 
+  text-align: center;
+  padding: 50px;
+  width: 300px;
+  height: 700px;
+  overflow: hidden;
+}
+
+  .container {
+    display: flex;
+    min-height: 40rem;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    border-radius: 80px;
+   
+}
+  :root {
+    --bright-pink: #FE47A9;
+    --bright-yellow: #EAB71B;
+    --bright-blue: #86deef;
+  }
+  .lowchibi {
+    width: 180px;
+    height: 200px;
+    transition: all 0.3s ease;
+  }
+  .lowchibi:hover {
+    width: 220px; 
+    height: 240px; 
+  }
+  .lowvtuber {
+    width: 200px;
+    height: 200px;
+    transition: all 0.3s ease;
+  }
+  .lowvtuber:hover {
+    width: 240px; 
+    height: 240px; 
+  }
+  .lowfanart {
+    width: 200px;
+    height: 200px;
+    transition: all 0.3s ease;
+  }
+  .lowfanart:hover {
+    width: 240px; 
+    height: 240px; 
+  }
+  .bright-pink {
+    background-color: var(--bright-pink);
+
+    color: white;
+  }
+  .bright-yellow {
+  background-color: var(--bright-yellow);
+
+  color: white;
+  }
+  .bright-blue {
+  background-color: var(--bright-blue);
+
+  color: white;
+  }
+  /* Estilo para o header */
+header {
+  background-color: #55021a; 
+  padding: 10px; 
+  text-align: center; 
+  display: flex; 
+  align-items: center; 
+  justify-content: space-between; 
+}
+/* Estilo para a imagem clicável (logo) */
+.logo {
+  display: inline-block; /* Torna o elemento clicável */
+}
+
+.logo img {
+  width: 150px; /* Largura da imagem */
+  height: 80px; /* Altura ajustável para manter a proporção */
+  position: absolute;
+  top: -20px;
+}
+
+/* Estilo para a navegação dentro do header */
+nav ul {
+  list-style: none; /* Remove marcadores de lista */
+  padding: 0;
+}
+
+nav ul li {
+  display: inline; /* Exibe os itens da lista na mesma linha */
+  margin-right: 90px; /* Espaçamento entre os itens */
+}
+
+/* Estilo para os links de navegação */
+nav ul li a {
+  text-decoration: none; /* Remove sublinhado padrão dos links */
+  color: #fff; /* Cor do texto dos links */
+  font-weight: bold; /* Negrito no texto dos links */
+}
+
+/* Estilo para os links de navegação quando passam o mouse por cima */
+nav ul li a:hover {
+  color: #ff5733; /* Cor alternativa quando o mouse passa por cima */
+}
+.sniper{
+  width: 100%;
+  height: 9%;
+}
+
+.youtube-container {
+  position: absolute;
+  left: 884px;
+  right: 40px;
+  top: 720px;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 10px;
+  padding-right: 385px;
+  margin: 220px;
+}
+.video-iframe{
+  position: absolute;
+  top: 1;
+  right: 0;
+  padding: 10px;
+  margin: 250px;
+  opacity: 0;
+  transition: opacity 2s ease;
+}
+.caixa-escura {
+  background-color: rgba(0, 0, 0, 0.7); 
+  color: whie; 
+  padding: 20px; 
+  text-align: center; 
+  position: fixed; 
+  left: 0;
+  bottom: 0;
+  width: 100%; 
+}
+
+
+.informacoes {
+  max-width: 800px; 
+  margin: 0 auto; 
+  color: white;
+}
