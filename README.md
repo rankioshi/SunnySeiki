@@ -46,7 +46,8 @@ Este repositório contém o código-fonte de uma página web dedicada à influen
 
 **Página Inicial**
 
-<img src="https://cdn.discordapp.com/attachments/1229834827721605152/1370119838361583717/vlc-record-2025-05-08-16h13m15s-Desktop2025.05.08-16.12.19.05.DVR.mp4--ezgif.com-video-to-gif-converter.gif?ex=681e5709&is=681d0589&hm=757639e45f72118201256ef6243a6b7f205989794ac349f0a263610cd7193874&"  />
+<img src="![image](https://github.com/user-attachments/assets/10bcbc7c-e665-411b-b89d-f39df01afced)
+"  />
 
 ## Observações
 
