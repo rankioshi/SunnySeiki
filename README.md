@@ -45,7 +45,7 @@ Este repositório contém o código-fonte de uma página web dedicada à influen
 ## Imagens do Projeto
 
 **Página Inicial**
-<img src="https://i.imgur.com/F0uiM35.gif" width="600"/>
+<img src="https://i.imgur.com/F0uiM35.gif"/>
 
 ## Observações
 
