@@ -1,6 +1,6 @@
 # SunnySeiki
 
-<img src="arts/chibi/wave.png" alt="Chibi Point" width="400"/>
+<img src="arts/chibi/wave.png" alt="Chibi Point" width="300"/>
 
 Página web criada para a VTuber brasileira **Sunny Seiki**.
 
