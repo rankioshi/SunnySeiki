@@ -16,12 +16,7 @@ Este repositório contém o código-fonte de uma página web dedicada à influen
 ## Imagens do Projeto
 
 **Página Inicial**
-<img src="arts/pagescroll.gif" alt="page" width="400"/>
-
-
-
-
-<img src="https://cdn.discordapp.com/attachments/1229834827721605152/1370125094818680883/image.png?ex=681e5bee&is=681d0a6e&hm=520a9cd1338ae3ab3d71d47afafe8a5a71a3787569f43b0d32108052ff980f1c&"/>
+<img src="arts/pagescroll.gif" alt="page"/>
 
 ## Tecnologias Utilizadas
 
