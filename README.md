@@ -16,7 +16,9 @@ Este repositório contém o código-fonte de uma página web dedicada à influen
 ## Imagens do Projeto
 
 **Página Inicial**
+
 <img src="arts/pagescroll.gif" alt="page"/>
+
 
 ## Tecnologias Utilizadas
 
